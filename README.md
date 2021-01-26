@@ -8,6 +8,18 @@ This is an interactive implementation of [John Conway's game of life](https://en
 
 The game starts off in a *dead state* by default, where a blank grid is displayed. The option is provided to set the state to a *random state*, or a particular initial state can be set up by clicking on desired squares (i.e. *mouse editing*). To run or move to the next iteration, mouse editing must be disabled. "Runs" or automatic iterations can be paused, and after enabling mouse editing the new state can then be modified. 
 
+<div class="row">
+  <div class="column">
+    <img src="GosperGliderGun.png" alt="GosperGliderGun" width="300"/>
+  </div>
+  <div class="column">
+    <img src="GameOfLife1.png" alt="GameOfLife1" width="300"/>
+  </div>
+  <div class="column">
+    <img src="GameOfLife2.png" alt="GameOfLife2" width="300"/>
+  </div>
+</div>
+
 ## Controls
 Note that some keys will not work unless certain conditions are met. These are described in italics. 
 
